@@ -1,0 +1,12 @@
+.text-center {
+  text-align: center;
+}
+
+.drawer-option {
+  padding: 16px;
+}
+
+.enable-notifications:active{
+  transform: scale(0.9);
+  transition: all .2s
+}
